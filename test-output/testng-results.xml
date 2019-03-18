@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="93794" started-at="2019-03-12T02:15:27Z" finished-at="2019-03-12T02:17:01Z">
+    <groups>
+    </groups>
+    <test name="execution" duration-ms="93794" started-at="2019-03-12T02:15:27Z" finished-at="2019-03-12T02:17:01Z">
+      <class name="Testcase.Testcase">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:Testcase.Testcase@578486a3]" name="initialization" is-config="true" duration-ms="8214" started-at="2019-03-12T07:45:27Z" finished-at="2019-03-12T07:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="execution()[pri:0, instance:Testcase.Testcase@578486a3]" name="execution" duration-ms="84160" started-at="2019-03-12T07:45:35Z" finished-at="2019-03-12T07:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execution -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:Testcase.Testcase@578486a3]" name="cleanup" is-config="true" duration-ms="1399" started-at="2019-03-12T07:47:00Z" finished-at="2019-03-12T07:47:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- Testcase.Testcase -->
+    </test> <!-- execution -->
+  </suite> <!-- Suite -->
+</testng-results>
